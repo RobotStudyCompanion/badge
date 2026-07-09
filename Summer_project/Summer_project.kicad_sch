@@ -1575,7 +1575,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "1k"
 			(at 97.79 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
