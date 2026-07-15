@@ -5193,6 +5193,17 @@
 			(uuid "0bf4c6e6-45a2-4534-a316-3573ce9ca492")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3d_Models/BAT-HLD-005-THM.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "B.Cu")
@@ -7215,120 +7226,6 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.Cu")
-		(uuid "41af7b00-bd74-4d57-a3bf-bf384572e2b3")
-		(pts
-			(xy 197.5 51.5) (xy 100.25 49.5)
-		)
-		(height -15.5)
-		(orientation 0)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.2)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "97.25"
-			(at 148.875 34.2 0)
-			(layer "F.Cu")
-			(uuid "41af7b00-bd74-4d57-a3bf-bf384572e2b3")
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.Cu")
-		(uuid "6c2ce0a9-e669-4bfb-8edf-4b872014dc31")
-		(pts
-			(xy 188.5 134) (xy 155.75 43.75)
-		)
-		(height 19.25)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 2)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.2)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "90.25"
-			(at 205.95 88.875 90)
-			(layer "F.Cu")
-			(uuid "6c2ce0a9-e669-4bfb-8edf-4b872014dc31")
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.Cu")
-		(uuid "ed7b5938-b79d-454d-9128-9dca27df0ea6")
-		(pts
-			(xy 113.5 126) (xy 185.75 126.5)
-		)
-		(height 13)
-		(orientation 0)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.2)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "72.25"
-			(at 149.625 137.2 0)
-			(layer "F.Cu")
-			(uuid "ed7b5938-b79d-454d-9128-9dca27df0ea6")
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-				)
-			)
 		)
 	)
 	(segment
