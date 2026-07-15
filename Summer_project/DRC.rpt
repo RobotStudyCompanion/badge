@@ -1,0 +1,83 @@
+** Drc report for Summer_project.kicad_pcb **
+** Created on 2026-07-16T01:20:30 **
+** Report includes: Errors, Warnings **
+
+** Found 18 DRC violations **
+[lib_footprint_mismatch]: Footprint 'RSC_robot_with_name' does not match copy in library 'Summer_project'
+    Local override; warning
+    @(149.2681 mm, 133.2829 mm): Footprint G***
+[lib_footprint_mismatch]: Footprint 'MountingHole_4.3mm_M4_DIN965_Pad' does not match copy in library 'MountingHole'
+    Local override; warning
+    @(149.5000 mm, 49.0000 mm): Footprint REF**
+[lib_footprint_mismatch]: Footprint 'TU' does not match copy in library 'Summer_project'
+    Local override; warning
+    @(120.1255 mm, 69.5371 mm): Footprint G***
+[lib_footprint_mismatch]: Footprint 'RSC_qr_code' does not match copy in library 'Summer_project'
+    Local override; warning
+    @(229.7864 mm, 44.3964 mm): Footprint G***
+[lib_footprint_mismatch]: Footprint 'ifixit' does not match copy in library 'Summer_project'
+    Local override; warning
+    @(120.1014 mm, 81.1142 mm): Footprint G***
+[lib_footprint_mismatch]: Footprint 'OSHW-Logo_5.7x6mm_SilkScreen' does not match copy in library 'Symbol'
+    Local override; warning
+    @(163.0057 mm, 97.6128 mm): Footprint REF**
+[lib_footprint_mismatch]: Footprint 'RSC_for_back_silk' does not match copy in library 'Summer_project'
+    Local override; warning
+    @(181.7500 mm, 66.0000 mm): Footprint G***
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(146.0000 mm, 100.7500 mm): Segment of SW1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(147.2500 mm, 104.7500 mm): Segment of SW1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(151.7500 mm, 98.2500 mm): Segment of SW1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(153.0000 mm, 102.2500 mm): Segment of SW1 on F.Silkscreen
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(160.0500 mm, 115.5000 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(146.2500 mm, 103.7500 mm): PTH pad 1 [Net-(BT1-+)] of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(152.7500 mm, 103.7500 mm): PTH pad 1 [Net-(BT1-+)] of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(146.2500 mm, 99.2500 mm): PTH pad 2 [Net-(R1-Pad1)] of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(152.7500 mm, 99.2500 mm): PTH pad 2 [Net-(R1-Pad1)] of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(138.9500 mm, 115.5000 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1636 mm, 44.4679 mm): Polygon of G*** on F.Silkscreen
+    @(149.5000 mm, 49.0000 mm): PTH pad 1 [<no net>] of REF**
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

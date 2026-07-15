@@ -546,7 +546,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fab_out/",
       "specctra_dsn": "",
       "vrml": ""
     },
