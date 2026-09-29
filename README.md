@@ -1,2 +1,2 @@
 # badge
-tiny RSC badge PCB
+Tiny RSC badge PCB. Astable Multivibrator with LED 
