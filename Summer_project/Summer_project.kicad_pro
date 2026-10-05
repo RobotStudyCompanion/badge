@@ -548,6 +548,7 @@
       "netlist": "",
       "plot": "fab_out/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
