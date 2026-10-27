@@ -13,13 +13,18 @@ We prepared this project as a simple and compact PCB badge for RSC affiliated ev
 
 We designed the PCB in **KiCad 10.0**.
 
-The astable multivibrator circuit comprises two transistor stages continuously alternating ON and OFF states, causing the LEDs to blink alternately.
+The astable multivibrator circuit comprises two transistor stages.
+
+When pressing the button switch, the transistors alternate ON and OFF states, causing the LEDs to blink alternately, while the middle LED stays powered.
 
 The board includes:
 - Two LEDs
 - Two transistors
+- Button switch
+- CR2032 battery holder
+- Informative silkscreen
 - Resistors and capacitors (current limiting and oscillation rate setting)
-- Compact badge layout
+- Compact badge with a face-shape layout (pareidolia)
 
 
 ### Front
