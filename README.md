@@ -1,6 +1,6 @@
-# Tiny RSC Badge
+# RSC Badge
 
-This repository contains the PCB design files for the **Tiny RSC Badge**, developed for the Robotic Study Companion (RSC) project.
+This repository contains the PCB design files for the **RSC Badge**, developed for the Robot Study Companion (RSC; [rsc.ee](https://rsc.ee/)) project.
 
 The board is a small electronic badge designed around an **astable multivibrator circuit** that drives blinking LEDs. The project was created as a simple and compact PCB badge for the RSC platform.
 
@@ -25,19 +25,19 @@ The design focuses on simplicity, low component count, and a compact form factor
 
 ### Front Side
 
-![Tiny RSC Badge front side](images/badge_front.png)
+![RSC Badge front side](images/badge_front.png)
 
 ### Back Side
 
-![Tiny RSC Badge back side](images/badge_back.png)
+![RSC Badge back side](images/badge_back.png)
 
 ## Final Product
 
-The assembled Tiny RSC Badge:
+The assembled RSC Badge:
 
-![Tiny RSC Badge final product](images/badge_ifixit.png)
+![RSC Badge final product](images/badge_ifixit.png)
 
-![Tiny RSC Badge final product](images/day2_pcbway.jpg)
+![RSC Badge final product](images/day2_pcbway.jpg)
 
 ---
 
