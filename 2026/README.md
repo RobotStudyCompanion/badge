@@ -2,38 +2,35 @@
 
 This repository contains the PCB design files for the **RSC Badge**, developed for the Robot Study Companion (RSC; [rsc.ee](https://rsc.ee/)) project.
 
-The board is a small electronic badge designed around an **astable multivibrator circuit** that drives blinking LEDs. The project was created as a simple and compact PCB badge for the RSC platform.
+The board is a small electronic badge featuring an astable multivibrator circuit that drives blinking LEDs. 
+
+For the circuit design we were explicitly inspired by the KiCad workshop at [https://gitlab.com/evils/kicad-workshop](https://gitlab.com/evils/kicad-workshop).
+
+We prepared this project as a simple and compact PCB badge for RSC affiliated events.
 
 
 ## Design Summary
 
-The PCB was designed in **KiCad**.
+We designed the PCB in **KiCad 10.0**.
 
-The circuit is based on an astable multivibrator, where two transistor stages continuously switch between ON and OFF states, causing the LEDs to blink alternately.
+The astable multivibrator circuit comprises two transistor stages continuously alternating ON and OFF states, causing the LEDs to blink alternately.
 
 The board includes:
-
-- Astable multivibrator circuit
 - Two LEDs
-- Transistors
-- Resistors and capacitors for controlling the oscillation
-- Compact badge-style PCB layout
+- Two transistors
+- Resistors and capacitors (current limiting and oscillation rate setting)
+- Compact badge layout
 
-The design focuses on simplicity, low component count, and a compact form factor suitable for use as an electronic badge.
 
-## PCB
-
-### Front Side
+### Front
 
 ![RSC Badge front side](images/badge_front.png)
 
-### Back Side
+### Back
 
 ![RSC Badge back side](images/badge_back.png)
 
-## Final Product
-
-The assembled RSC Badge:
+## Assembled 2026 RSC Badge:
 
 ![RSC Badge final product](images/badge_ifixit.png)
 
