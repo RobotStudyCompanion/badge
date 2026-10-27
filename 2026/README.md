@@ -44,5 +44,7 @@ The assembled RSC Badge:
 ## Author
 
 Timur Kedrov and Matevž Borjan Zorec 
+
 Supervised by Farnaz Baksh
+
 © Robot Study Companion 2026
