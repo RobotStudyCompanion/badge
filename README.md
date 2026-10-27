@@ -46,4 +46,4 @@ The assembled Tiny RSC Badge:
 Timur Kedrov  
 Supervised & reviewed by Farnaz Baksh and Matevž Borjan Zorec
 
-© Robotic Study Companion 2026
+© Robot Study Companion 2026
