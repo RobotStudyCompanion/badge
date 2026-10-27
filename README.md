@@ -43,7 +43,6 @@ The assembled Tiny RSC Badge:
 
 ## Author
 
-Timur Kedrov  
-Supervised & reviewed by Farnaz Baksh and Matevž Borjan Zorec
+Timur Kedrov and Matevž Borjan Zorec 
 
 © Robot Study Companion 2026
