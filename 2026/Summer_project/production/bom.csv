@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BAT_BAT-HLD-005-THM,1,Battery_Cell,
+"C1, C2",CP_Radial_D5.0mm_P2.00mm,2,10u,
+"D1, D2, D3",LED_D5.0mm,3,LED,
+"Q3, Q4",TO-92_Inline,2,2N3904,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,330,
+"R2, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,470,
+"R4, R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,68k,
+SW1,SW_PUSH_6mm,1,SW_Push,
